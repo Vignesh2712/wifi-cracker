@@ -66,11 +66,6 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 4) sudo python3 Wifi-Hacking.py
 ```
 
-## Creator
-
-(Ankit Kanojiya) Hey, Dont Forget To say Thanks me :smile:
-
-
 # SCREENSHOT
 
 
@@ -84,17 +79,6 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 ![](Snapshots/7.png)
 
 
-
-
-
-# Feel Free To Contact Me.
-
-
- ### if you like my work, Buy me a Cup of Coffee PhonePay/PayTm/GPAy 9768367597
-
-### - [Whats App chat](https://wa.me/+919768367597)
-
-### - [Instagram](https://www.instagram.com/ankit_kanojiiya/)
 
 
 # Disclaimer 
