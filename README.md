@@ -65,22 +65,6 @@ No Need To Ask Wifi Password, HACK it..! This Cyber Security Tool, Will Hack For
 3) cd Wifi-Hacking/
 4) sudo python3 Wifi-Hacking.py
 ```
-
-# SCREENSHOT
-
-
-![](Snapshots/0.png)
-![](Snapshots/1.png)
-![](Snapshots/2.png)
-![](Snapshots/3.png)
-![](Snapshots/4.png)
-![](Snapshots/5.png)
-![](Snapshots/6.png)
-![](Snapshots/7.png)
-
-
-
-
 # Disclaimer 
 
 
